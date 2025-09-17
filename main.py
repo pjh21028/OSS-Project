@@ -1,1 +1,1 @@
-print(Hello, OSS-Project)
+print('hello world')
